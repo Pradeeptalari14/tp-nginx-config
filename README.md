@@ -1,8 +1,10 @@
 # 🚦 Nginx Configurator
 > Build production-grade nginx.conf files. Configure upstreams, rate limiters, security headers, SSL, compression, and visualize live traffic routing flowcharts via dynamic Mermaid diagrams.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/nginx-config/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/nginx-config/)
 [![Category](https://img.shields.io/badge/Category-automation-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -20,7 +22,7 @@ Each option combination produces different output — try different settings to 
 ## 🔄 Workflow
 
 ```
-1. Open Studio → https://pradeeptalari14.github.io/portfolio/tools/nginx-config/
+1. Open Studio → https://pradeeptalari.me/tools/nginx-config/
 2. Configure all parameters (options change the generated output)
 3. Review the live output in the editor tabs
 4. Download or Copy the generated files
@@ -47,7 +49,10 @@ cd tp-nginx-config
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/nginx-config/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/nginx-config/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [Nginx Configurator Studio](https://pradeeptalari.me/tools/nginx-config/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
